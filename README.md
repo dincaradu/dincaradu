@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dincaradu
-- 👀 I’m looking to contribute on open source projects.
-- 🌱 I’m working with TypeScript (Angular, AngularMaterial), Python, Javascript (Angular.js, Node.js, jQuery), MySQL/MariaDB, MsSQL, MongoDB, Bootstrap, TailwindCSS, HTML5, CSS3, Scss/Sass, Less.
-- 📚 I'm learning about Machine Learning.
+- 👋 Hi, I’m @dincaradu a.k.a "Grăsuțu" IRL
+- 👀 I’m looking to contribute to the community in any way I can. Aside from the public repositories I started working on (which I know at this point aren't of much use, but give them a wee bit of time), please let me know if there's something I can do for you.
+- 🌱 I’m a bit of a polyglot and I'm not proud of it, as it's hard to master any of it that way but... on the other hand, that can also constitute and advantage, in the sense that it gives me the ability to better understand stuff conceptually, leaving me only with researching the syntax. 
+- 📚 I'm practicing narrating what I do, while I do it, as one would in a peer-programming session. I also dove head first into some machine learning, which is fun.
 - 💞️ Let me know if I can help.
 - 📫 Find out more and a way to contact me on https://www.dincaradu.ro
 
