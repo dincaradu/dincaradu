@@ -5,7 +5,6 @@ Disclaimer: Even though I've had the GH account since 2009, I only started using
 - 🌱 I’m a bit of a polyglot and I'm not proud of it, as it's hard to master any of it that way but... on the other hand, that can also constitute and advantage, in the sense that it gives me the ability to better understand stuff conceptually, leaving me only with researching the syntax. 
 - 📚 I'm practicing narrating what I do, while I do it, as one would in a peer-programming session. I also dove head first into some machine learning, which is fun.
 - 💞️ Let me know if I can help.
-- 📫 Find out more and a way to contact me on https://www.dincaradu.ro
 
 <!---
 dincaradu/dincaradu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
