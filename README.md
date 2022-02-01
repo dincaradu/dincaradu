@@ -1,4 +1,4 @@
-Disclaimer: Even though I've had the GH account since 2009, I only started using it in Sep 2021, so it might be a while until it get's up to speed with the sort of stuff I have on BitBucket.
+Disclaimer: Even though I've had the GH account since 2009, I only started using it in Sep 2021, so it might be a while until it gets up to speed with the sort of stuff I have on BitBucket.
 
 - 👋 Hi, I’m @dincaradu a.k.a "Grăsuțu" IRL
 - 👀 I’m looking to contribute to the community in any way I can. Aside from the public repositories I started working on (which I know at this point aren't of much use, but give them a wee bit of time), please let me know if there's something I can do for you.
