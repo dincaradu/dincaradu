@@ -93,6 +93,8 @@ I've grouped them by category, relevance and ordered them by familiarity.
 ### Project Management Software:
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
 
 
 ### Payment Processors:
